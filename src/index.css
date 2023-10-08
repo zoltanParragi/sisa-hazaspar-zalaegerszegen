@@ -1,0 +1,45 @@
+.intro {
+  background: #7E567E;
+  color: white;
+}
+
+.main h1{
+  color: #C26A85;
+}
+
+.main h3 {
+  color: #F58B79;
+}
+
+.details {
+  color: #404260;
+  background: #F9F871;
+}
+
+.details p span {
+  font-size: 1.7rem;
+}
+
+.details p {
+  font-size: 1.3rem;
+}
+
+.main .display-3{
+  padding: 5rem 3rem 2rem;
+  line-height: 150%;
+} 
+
+.main .h2 {
+  padding: 0 3rem 4rem;
+}
+
+@media only screen and (min-width: 768px) {
+  .main .display-3{
+    padding: 5rem 3rem 1rem;
+    line-height: 120%;
+  } 
+  
+  .main .h2 {
+    padding: 0 3rem 0rem;
+  }
+}
