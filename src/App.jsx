@@ -16,7 +16,7 @@ function App() {
             <h3 className='h2'>- felnőtteknek és gyerekeknek -</h3>
           </div>
           <div className='col-12 col-md-6 m-0 p-0'>
-            <img src="https://scontent-vie1-1.xx.fbcdn.net/v/t1.6435-9/53674839_2266405450047915_1778231192005378048_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_ohc=Mr9617xpSnUAX_gUnwW&_nc_ht=scontent-vie1-1.xx&oh=00_AfDYRREhFHul4Y4d5BKS_f_kLue4-Fu23L53GN3Q3JGdRA&oe=6549E7E7" width="100%" alt="sisa házaspár" />
+            <img src="sisa-hazaspar.jpg" width="100%" alt="sisa házaspár" />
           </div>
         </div>
       </div>
