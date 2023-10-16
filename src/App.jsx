@@ -1,7 +1,7 @@
 import './App.css'
 
 function App() {
-  
+
   return (
     <div className='m-0 p-0'>
       <div className='intro container-fluid pt-5 pb-5'>
@@ -23,7 +23,7 @@ function App() {
       <div className='details container-fluid p-0'>
         <div className='row m-0'>
           <div className='col-lg-10 mx-auto p-5 mt-4'>
-            <p className='mb-4'><span className="me-3 fw-bold">Időpont:</span> 2023.10.14. (szombat) 14:00</p>
+            <p className='mb-4'><span className="me-3 fw-bold">Időpont:</span> 2023.10.28. (szombat) 14:00</p>
             <p className='mb-4'><span className='me-3 fw-bold'>Helyszín:</span> Zalaegerszeg, Závodszky István utca 1. (A volt nyomda irodáinak épülete.)</p>
             <p><span className="me-3 fw-bold">Szervező:</span> Egerszegi Keresztény Gyülekezet</p>
           </div>
